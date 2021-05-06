@@ -1,0 +1,4 @@
+OOP 1 xxx 184 2
+Data_Structure 2 xxx 15 2 
+IT_Systems 3 xxx 20 7
+Data_Mining 4 xxx 9 8 
